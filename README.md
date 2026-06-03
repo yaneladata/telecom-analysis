@@ -37,13 +37,9 @@ El notebook se puede abrir en Google Colab
 - `notebooks/` → notebooks de análisis.
 - `visualizaciones/` → gráficos generados.
 
-## 🚀 Impacto esperado
-Este proyecto ayuda a:
-- Detectar patrones de consumo en clientes de telecomunicaciones.
-- Diseñar estrategias de retención basadas en datos.
-- Proponer mejoras en los planes ofrecidos para aumentar la satisfacción y reducir el churn.
   
 ## Guía de reproducción
--[exports](../telecom-analysis/exports)
+-[data](../telecom-analysis/data)
+-[notebooks](../telecom-analysis/notebooks)
 -[visualizaciones](../telecom-analysis/visualizaciones)
 
