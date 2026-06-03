@@ -31,3 +31,7 @@ Identificar patrones de uso, detectar comportamientos atípicos y comprender qu�
 
 ## Cómo ejecutar el notebook?
 El notebook se puede abrir en Google Colab
+
+## Guía de reproducción
+
+
