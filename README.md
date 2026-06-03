@@ -1,7 +1,7 @@
 # telecom-analysis
 
 ## Objetivo del Proyecto
-Identificar patrones de uso, detectar comportamientos atípicos y comprender qué segmentos de clientes muestran necesidades diferenciadas, con el fin de optimizar la oferta comercial y mejorar la experiencia del usuario. Explorar, limpiar y analizar estas bases de datos permitirá construir una visión clara, confiable y accionable sobre el comportamiento de uso de los clientes y cómo varía entre diferentes grupos de usuarios.
+Este análisis permite identificar patrones de consumo, diseñar estrategias de retención y sugerir mejoras en los planes ofrecidos por la empresa de telecomunicaciones.
 
 ## Datasets utilizados
 1-plans.csv → información de los planes actuales (precio, minutos incluidos, GB incluidos, costo por extra)
@@ -28,9 +28,24 @@ Identificar patrones de uso, detectar comportamientos atípicos y comprender qu�
 
 8-Publicación
 
-
+## 🚀 Impacto esperado
+Este proyecto ayuda a:
+- Detectar patrones de consumo en clientes de telecomunicaciones.
+- Diseñar estrategias de retención basadas en datos.
+- Proponer mejoras en los planes ofrecidos para aumentar la satisfacción y reducir el churn.
+  
 ## Cómo ejecutar el notebook?
 El notebook se puede abrir en Google Colab
+
+## 📂 Estructura del repositorio
+- `data/` → datasets originales.
+- `notebooks/` → notebooks de análisis.
+- `visualizaciones/` → gráficos generados.
+
+  ## 🔗 Enlaces útiles
+- 📊 [Dataset de usuarios](data/telecom_users.csv)
+- 📓 [Notebook principal](notebooks/telecom_analysis.ipynb)
+- 📈 [Visualizaciones](https://github.com/yaneladata/telecom-analysis/tree/main/visualizaciones)
 
 ## Guía de reproducción
 -[exports](../telecom-analysis/exports)
