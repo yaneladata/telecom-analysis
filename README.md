@@ -1,6 +1,6 @@
 # telecom-analysis
 
-## Objetivo del Proyecto
+## 🎯 Objetivo del Proyecto
 Este análisis permite identificar patrones de consumo, diseñar estrategias de retención y sugerir mejoras en los planes ofrecidos por la empresa de telecomunicaciones.
 
 ## Datasets utilizados
@@ -11,7 +11,7 @@ Este análisis permite identificar patrones de consumo, diseñar estrategias de 
 3-usage.csv → detalle del uso real de los servicios (llamadas y mensajes)
 
 
-## Etapas de Análisis realizadas
+## 📊 Etapas de Análisis realizadas
 1-Cargar y explorar los datasets
 
 2-Identificación de problemas de calidad
@@ -38,8 +38,4 @@ El notebook se puede abrir en Google Colab
 - `visualizaciones/` → gráficos generados.
 
   
-## Guía de reproducción
--[data](../telecom-analysis/data)
--[notebooks](../telecom-analysis/notebooks)
--[visualizaciones](../telecom-analysis/visualizaciones)
 
