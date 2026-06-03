@@ -28,11 +28,6 @@ Este análisis permite identificar patrones de consumo, diseñar estrategias de 
 
 8-Publicación
 
-## 🚀 Impacto esperado
-Este proyecto ayuda a:
-- Detectar patrones de consumo en clientes de telecomunicaciones.
-- Diseñar estrategias de retención basadas en datos.
-- Proponer mejoras en los planes ofrecidos para aumentar la satisfacción y reducir el churn.
   
 ## Cómo ejecutar el notebook?
 El notebook se puede abrir en Google Colab
@@ -42,11 +37,12 @@ El notebook se puede abrir en Google Colab
 - `notebooks/` → notebooks de análisis.
 - `visualizaciones/` → gráficos generados.
 
-  ## 🔗 Enlaces útiles
-- 📊 [Dataset de usuarios](data/telecom_users.csv)
-- 📓 [Notebook principal](notebooks/telecom_analysis.ipynb)
-- 📈 [Visualizaciones](https://github.com/yaneladata/telecom-analysis/tree/main/visualizaciones)
-
+## 🚀 Impacto esperado
+Este proyecto ayuda a:
+- Detectar patrones de consumo en clientes de telecomunicaciones.
+- Diseñar estrategias de retención basadas en datos.
+- Proponer mejoras en los planes ofrecidos para aumentar la satisfacción y reducir el churn.
+  
 ## Guía de reproducción
 -[exports](../telecom-analysis/exports)
 -[visualizaciones](../telecom-analysis/visualizaciones)
