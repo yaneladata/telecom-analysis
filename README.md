@@ -33,5 +33,6 @@ Identificar patrones de uso, detectar comportamientos atípicos y comprender qu�
 El notebook se puede abrir en Google Colab
 
 ## Guía de reproducción
-
+-[exports](telecom-analysis/exports)
+-[visualizaciones](telecom-analysis/visualizaciones)
 
